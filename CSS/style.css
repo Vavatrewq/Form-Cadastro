@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(18, 49, 230, 0.8);
+
+}
+
+.container{
+    background-color: rgba(78, 131, 231, 0.8);
+    padding:10%;
+    border-radius: 10px;;
+}
+
+.form{
+    background-color:white;
+    border:10px;
+    margin-left:200px;
+    margin-right:200px;
+    margin-top:-10%;
+    text-align: center;
+    border-radius: 20px;
+    box-sizing: border-box;    
+}
+
+h1,h2{
+    color:royalblue;
+}
+ 
+p{
+    color:skyblue;
+    font-size: 20px;
+}
